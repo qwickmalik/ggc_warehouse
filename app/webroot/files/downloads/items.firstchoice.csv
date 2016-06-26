@@ -1,0 +1,171 @@
+warehouse_id,item,serialno,supply_invoiceno,modelno,item_type,transaction_mode,description,brand,supplier_id,cost_price,selling_price,quantity
+10,Adult Hair Cut,B0002,,,Barbering,Service,,,1,0,20,1
+10,Comb Twist Long Hair,B0005,,,Barbering,Service,,,1,0,50,1
+10,Comb Twist Short Hair,B0031,,,Barbering,Service,,,1,0,40,1
+10,Adult Hair Cut & Dye,B0040,,,Barbering,service,,,1,0,40,1
+10,Company Dye,B0022,,,Barbering,Service,,,1,0,35,1
+10,Customer Dye,B0023,,,Barbering,Service,,,1,0,40,1
+10,Cut & Color,B0014,,,Barbering,Service,,,1,0,50,1
+10,European Hair Cut,B0003,,,Barbering,Service,,,1,0,30,1
+10,EYE BROW,B0019,,,Barbering,Service,,,1,0,5,1
+10,Foam Twist Long Hair,B0030,,,Barbering,Service,,,1,0,50,1
+10,Foam Twist Short Hair,B0006,,,Barbering,Service,,,1,0,35,1
+10,Hand Twist,B0004,,,Barbering,Service,,,1,0,45,1
+10,Kids Hair Cut,B0001,,,Barbering,Service,,,1,0,10,1
+10,Ladies Hair Cut with Scissors,B0020,,,Barbering,Service,,,1,0,35,1
+10,Ladies Hair cut without Scissors,B0032,,,Barbering,Service,,,1,0,30,1
+10,Manicure,B0012,,,Barbering,Service,,,1,0,20,1
+10,Pedicure,B0013,,,Barbering,Service,,,1,0,35,1
+10,Pedicure,B0039,,,Barbering,Service,,,1,0,30,1
+10,Permanent Lock (short),B0028,,,Barbering,Service,,,1,0,90,1
+10,Permanent Locks Long,B0016,,,Barbering,Service,,,1,0,130,1
+10,Polish,B0021,,,Barbering,Service,,,1,0,10,1
+10,Polish,B0024,,,Barbering,Service,,,1,0,10,1
+10,Polish,B0025,,,Barbering,Service,,,1,0,10,1
+10,Re-Twist (Long Hair),B0007,,,Barbering,Service,,,1,0,60,1
+10,Re-Twist (Short Hair),B0008,,,Barbering,Service,,,1,0,40,1
+10,Shaving ,B0011,,,Barbering,Service,,,1,0,10,1
+10,Spotting Waves (Long Hair),B0009,,,Barbering,Service,,,1,0,55,1
+10,Spotting Waves (Short Hair),B0010,,,Barbering,Service,,,1,0,40,1
+10,Design,N0012,,,Nails,Service,,,1,0,5,1
+10,Dissolving,N0005,,,Nails,Service,,,1,0,8,1
+10,Dissolving & Polish,N0006,,,Nails,Service,,,1,0,10,1
+10,French Tip,N0002,,,Nails,Service,,,1,0,25,1
+10,French Tip,N00012,,,Nails,Service,,,1,0,20,1
+10,Gel,N0014,,,Nails,Service,,,1,0,30,1
+10,Manicure,N0011,,,Nails,Service,,,1,0,15,1
+10,Normal Tip,N0001,,,Nails,Service,,,1,0,20,1
+10,Pedicure,N0010,,,Nails,Service,,,1,0,25,1
+10,Polish,N0008,,,Nails,Service,,,1,0,5,1
+10,Polish With French Tip,N0007,,,Nails,Service,,,1,0,6,1
+10,Refill,N0003,,,Nails,Service,,,1,0,15,1
+10,Replacement of one tip,N0015,,,Nails,Service,,,1,0,3,1
+10,Sculpture,N0013,,,Nails,Service,,,1,0,25,1
+10,Stick-On,N0009,,,Nails,Service,,,1,0,10,1
+10,Tiding & Polish,N0004,,,Nails,Service,,,1,0,8,1
+10,Bridal Make Up,P0037,,,Parlour,Service,,,1,0,40,1
+10,Bridal Make Up-Home Service,P0038,,,Parlour,Service,,,1,0,80,1
+10,Bridal Make-up Home Serives,P0075,,,Parlour,Service,,,1,0,50,1
+10,Chain Waxing,P0049,,,Parlour,Service,,,1,0,15,1
+10,Contact Lens fixing,P0052,,,Parlour,Service,,,1,0,10,1
+10,Dura Lash,P0044,,,Parlour,Service,,,1,0,20,1
+10,Eye Lash,P0060,,,Parlour,Service,,,1,0,15,1
+10,EyeBrow Trimming,P0027,,,Parlour,Service,,,1,0,5,1
+10,EyeBrow Tweezing,P0026,,,Parlour,Service,,,1,0,10,1
+10,EyeBrow Tweezing,P0045,,,Parlour,Service,,,1,0,8,1
+10,EyeBrow Tweezing,P0046,,,Parlour,Service,,,1,0,8,1
+10,Facial-Acne/Problem Skin,P0003,,,Parlour,Service,,,1,0,50,1
+10,Facial-Own Products,P0001,,,Parlour,Service,,,1,0,40,1
+10,Facial-Problem Free Skin,P0002,,,Parlour,Service,,,1,0,40,1
+10,Hydro Bath,P0011,,,Parlour,Service,,,1,0,40,1
+10,Hydro Bath & Massage,P0012,,,Parlour,Service,,,1,0,60,1
+10,Lash Refill,P0041,,,Parlour,Service,,,1,0,8,1
+10,Lash Refill,P0042,,,Parlour,Service,,,1,0,8,1
+10,Lash Refill,P0043,,,Parlour,Service,,,1,0,10,1
+10,Lash-1 Pack,P0028,,,Parlour,Service,,,1,0,15,1
+10,Lash-1 Pack Extra 1 Line,P0029,,,Parlour,Service,,,1,0,20,1
+10,"Lash-1 Pack, Extra 1&1/2 Lines",P0030,,,Parlour,Service,,,1,0,25,1
+10,"Lash-1 Pack, Extra 2 Lines",P0031,,,Parlour,Service,,,1,0,25,1
+10,Lash-2 Packs,P0032,,,Parlour,Service,,,1,0,30,1
+10,Make Up-Day,P0036,,,Parlour,Service,,,1,0,25,1
+10,Massage-Back,P0006,,,Parlour,Service,,,1,0,30,1
+10,Massage-Extra,P0009,,,Parlour,Service,,,1,0,85,1
+10,Massage-Foot,P0010,,,Parlour,Service,,,1,0,20,1
+10,Massage-Full Body,P0008,,,Parlour,Service,,,1,0,55,1
+10,Massage-Neck,P0004,,,Parlour,Service,,,1,0,20,1
+10,Massage-Shoulder,P0005,,,Parlour,Service,,,1,0,20,1
+10,Massage-Waist,P0007,,,Parlour,Service,,,1,0,20,1
+10,Own Lash,P0048,,,Parlour,Service,,,1,0,10,1
+10,Piercing with normal earrings,P0035,,,Parlour,Service,,,1,0,20,1
+10,Piercing with sparkling earrings,P0034,,,Parlour,Service,,,1,0,25,1
+10,Product knowledge training,P0051,,,Parlour,Service,,,1,0,0,1
+10,strip lash,p010,,,Parlour,Service,,,1,0,10,1
+10,Tinting,P0033,,,Parlour,Service,,,1,0,10,1
+10,Waxing Chin,P0022,,,Parlour,Service,,,1,0,15,1
+10,Waxing-Back,P0025,,,Parlour,Service,,,1,0,60,1
+10,Waxing-Brazilian Bikini,P0018,,,Parlour,Service,,,1,0,40,1
+10,Waxing-Eyebrows,P0014,,,Parlour,Service,,,1,0,10,1
+10,Waxing-Facial Course Hair,P0024,,,Parlour,Service,,,1,0,30,1
+10,Waxing-Facial Fine Hair,P0023,,,Parlour,Service,,,1,0,25,1
+10,Waxing-Full Arm,P0016,,,Parlour,Service,,,1,0,50,1
+10,Waxing-Full Body,P0013,,,Parlour,Service,,,1,0,180,1
+10,Waxing-Full Leg,P0015,,,Parlour,Service,,,1,0,60,1
+10,Waxing-Half Leg,P0050,,,Parlour,Service,,,1,0,40,1
+10,Waxing-Lower Lip Fine Hair,P0021,,,Parlour,Service,,,1,0,15,1
+10,Waxing-Normal Bikini,P0017,,,Parlour,Service,,,1,0,25,1
+10,Waxing-Under Arm,P0019,,,Parlour,Service,,,1,0,20,1
+10,Waxing-Upper Lip,P0020,,,Parlour,Service,,,1,0,8,1
+10,African Queen,S0034,,,Salon,Service,,,1,0,60,1
+10,Afro Kinkey,S0026,,,Salon,Service,,,1,0,45,1
+10,Braids,S0042,,,Salon,Service,,,1,0,50,1
+10,Braids,S0043,,,Salon,Service,,,1,0,60,1
+10,Braids,S0058,,,Salon,Service,,,1,0,70,1
+10,Braids - Big,S0031,,,Salon,Service,,,1,0,45,1
+10,Braids - Kids,S0048,,,Salon,Service,,,1,0,15,1
+10,Braids - Medium,S0030,,,Salon,Service,,,1,0,60,1
+10,Braids - Small,S0029,,,Salon,Service,,,1,0,100,1
+10,Braids Afro Twist,S0025,,,Salon,Service,,,1,0,45,1
+10,Coloring with own Dye,S0014,,,Salon,Service,,,1,0,15,1
+10,Coloring without Dye,S0015,,,Salon,Service,,,1,0,25,1
+10,Corn Roll,S0032,,,Salon,Service,,,1,0,35,1
+10,Corn Roll (Kids),S0049,,,Salon,Service,,,1,0,15,1
+10,Corn Roll Raster,S0033,,,Salon,Service,,,1,0,45,1
+10,"Corn-Roll(kids),with extension",S0059,,,Salon,Service,,,1,0,15,1
+10,Custom Service,S000014,,,Salon,Service,,,1,0,0,1
+10,Cutting,S0013,,,Salon,Service,,,1,0,25,1
+10,Cutting & Tonging,S0010,,,Salon,Service,,,1,0,40,1
+10,"Cutting, Tonging, Side Bonding",S0046,,,Salon,Service,,,1,0,45,1
+10,Flat Twist,S0017,,,Salon,Service,,,1,0,25,1
+10,Hand Twist,S0027,,,Salon,Service,,,1,0,30,1
+10,Jelly Curls,S0061,,,Salon,Service,,,1,0,50,1
+10,Lace Front,S0064,,,Salon,Service,,,1,0,45,1
+10,"lace wig no washing, no cornroll",S0086,,,Salon,Service,,,1,0,25,1
+10,Layers,S0024,,,Salon,Service,,,1,0,45,1
+10,Leisure Curls - Long Hair,S0040,,,Salon,Service,,,1,0,100,1
+10,Leisure Curls - Own + Add-up,S0037,,,Salon,Service,,,1,0,50,1
+10,Leisure Curls - Own Products,S0038,,,Salon,Service,,,1,0,50,1
+10,Leisure Curls - Short Hair,S0041,,,Salon,Service,,,1,0,80,1
+10,Leisure Curls - Touch Up,S0039,,,Salon,Service,,,1,0,70,1
+10,Microstrands,S0036,,,Salon,Service,,,1,0,100,1
+10,Normal Braids,S0047,,,Salon,Service,,,1,0,45,1
+10,Palm Branches,S0035,,,Salon,Service,,,1,0,60,1
+10,Pony,S0016,,,Salon,Service,,,1,0,20,1
+10,Pony (Kids),S0051,,,Salon,Service,,,1,0,15,1
+10,Private Room,S0057,,,Salon,Service,,,1,0,40,1
+10,Setting,S0005,,,Salon,Service,,,1,0,15,1
+10,Spiral Tonging,S0012,,,Salon,Service,,,1,0,20,1
+10,Tiding,S0055,,,Salon,Service,,,1,0,10,1
+10,Tonging,S0004,,,Salon,Service,,,1,0,15,1
+10,Touch Up & Straightening,S0003,,,Salon,Service,,,1,0,30,1
+10,Touch Up (Kids),S0054,,,Salon,Service,,,1,0,15,1
+10,Touch Up / Straightening (Kids),S0050,,,Salon,Service,,,1,0,18,1
+10,Touch up with salon cream and tonging,S0060,,,Salon,Service,,,1,0,40,1
+10,Touchup and Pony Salon Cream,S0079,,,Salon,Service,,,1,0,40,1
+10,Touchup and Pony with Own Cream,S0063,,,Salon,Service,,,1,0,30,1
+10,Touchup and wrapset,S0062,,,Salon,Service,,,1,0,20,1
+10,Touchup Client Cream Cutting and Tonging,S0084,,,Salon,Service,,,1,0,45,1
+10,Touchup Salon Cream Cutting and Tonging,S0085,,,Salon,Service,,,1,0,55,1
+10,Touchup with Client Cream and Setting,S0080,,,Salon,Service,,,1,0,35,1
+10,Touchup with Client Cream and Straighten,S0082,,,Salon,Service,,,1,0,35,1
+10,Touchup with Salon Cream and Setting,S0081,,,Salon,Service,,,1,0,35,1
+10,Touchup with Salon cream and Straighten,S0083,,,Salon,Service,,,1,0,40,1
+10,Tracks Full,S0044,,,Salon,Service,,,1,0,35,1
+10,Tracks Half,S00014,,,Salon,Service,,,1,0,30,1
+10,Treatment & Setting,S0006,,,Salon,Service,,,1,0,30,1
+10,Treatment & Tonging,S0008,,,Salon,Service,,,1,0,35,1
+10,Treatment and Setting,S0045,,,Salon,Service,,,1,0,25,1
+10,Treatment and Tonging,S0070,,,Salon,Service,,,1,0,30,1
+10,Trimming & Tonging,S0011,,,Salon,Service,,,1,0,25,1
+10,Washing & Blowing Drying,S0053,,,Salon,Service,,,1,0,15,1
+10,Washing & Tonging,S0009,,,Salon,Service,,,1,0,20,1
+10,Washing (Comb Stretching),S0052,,,Salon,Service,,,1,0,25,1
+10,Water Curls,S0028,,,Salon,Service,,,1,0,40,1
+10,Weave-On Long,S0019,,,Salon,Service,,,1,0,40,1
+10,Weave-On Short,S0020,,,Salon,Service,,,1,0,50,1
+10,Weave-On Washing with Tonging,S0018,,,Salon,Service,,,1,0,20,1
+10,Weave-On with all Round Secret,S0021,,,Salon,Service,,,1,0,50,1
+10,Weave-On with Half Secrets,S0022,,,Salon,Service,,,1,0,40,1
+10,Weave-on with small Secrets,S0023,,,Salon,Service,,,1,0,40,1
+10,Wig Cup Long,S00012,,,Salon,Service,,,1,0,50,1
+10,Wig cup short,S00013,,,Salon,Service,,,1,0,60,1
+10,Wrap set,S0056,,,Salon,Service,,,1,0,15,1
